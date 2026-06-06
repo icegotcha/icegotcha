@@ -46,6 +46,11 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [เริ่มต้นเป็นนักพัฒนาโปรแกรมยังไง?](https://knowlats.dev/posts/how-to-be-a-software-developer/)
+- [บันทึกการทำ LASIK](https://knowlats.dev/posts/lasik/)
+- [Review Course: Humanistic Software Architecture](https://knowlats.dev/posts/review-course-humanistic-software-architecture/)
+- [สวัสดี Typescript](https://knowlats.dev/posts/say-hi-to-typescript/)
+- [แนะนำ SchemaSpy เครื่องมือทำเอกสาร Database](https://knowlats.dev/posts/how-to-use-schemaspy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
