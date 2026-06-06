@@ -68,29 +68,6 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 ---
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                251 commits         ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-🌆 Daytime                188 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-🌃 Evening                308 commits         ████████░░░░░░░░░░░░░░░░░   31.75 % 
-🌙 Night                  223 commits         ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -108,7 +85,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 10:47:46 UTC
+ Last Updated on 06/06/2026 18:56:54 UTC
 <!--END_SECTION:waka-->
 
 
