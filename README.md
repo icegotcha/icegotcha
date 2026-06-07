@@ -13,8 +13,7 @@ I'm web developer who love crafting something cool, writing, and bunny! 🤓✍�
 
 Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.me)
 
-[![Visits Badge](https://badges.pufler.dev/visits/icegotcha/icegotcha)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/icegotcha)](https://badges.pufler.dev)
+![](https://api.visitorbadge.io/api/VisitorHit?user=icegotchaf&repo=icegotcha&countColor=%2300AD83)
 
 ---
 
