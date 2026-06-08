@@ -67,6 +67,38 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 ---
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                257 commits         █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+🌆 Daytime                229 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+🌃 Evening                467 commits         █████████░░░░░░░░░░░░░░░░   36.83 % 
+🌙 Night                  315 commits         ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.34 % 
+JSON                     1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+CSS                      1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Markdown                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+
+🔥 Editors: 
+Claude Code              3 hrs 27 mins       ██████████████░░░░░░░░░░░   54.59 % 
+VS Code                  2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.41 % 
+
+🐱‍💻 Projects: 
+icegotcha-dot-me         4 hrs 27 mins       ██████████████████░░░░░░░   70.46 % 
+icegotcha                1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+icegotcha-2              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+knowlats-dev             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+digital-resume           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -84,7 +116,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 18:58:07 UTC
+ Last Updated on 08/06/2026 19:21:10 UTC
 <!--END_SECTION:waka-->
 
 
