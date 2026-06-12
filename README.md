@@ -81,22 +81,22 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 18 mins       ████████████████░░░░░░░░░   64.45 % 
-CSS                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+TypeScript               1 hr 57 mins        ████████████████░░░░░░░░░   65.24 % 
+CSS                      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       ████████████████████░░░░░   80.21 % 
-Claude Code              42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+VS Code                  2 hrs 17 mins       ███████████████████░░░░░░   76.31 % 
+Claude Code              42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
 
 🐱‍💻 Projects: 
-icegotcha-dot-me         3 hrs 13 mins       ██████████████████████░░░   89.85 % 
-icegotcha-2              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-knowlats-dev             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-digital-resume           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-icegotcha                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+icegotcha-dot-me         2 hrs 37 mins       ██████████████████████░░░   87.85 % 
+icegotcha-2              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+knowlats-dev             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+digital-resume           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+icegotcha                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,7 +116,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2026 19:27:05 UTC
+ Last Updated on 12/06/2026 19:18:49 UTC
 <!--END_SECTION:waka-->
 
 
