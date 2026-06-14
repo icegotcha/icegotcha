@@ -81,21 +81,13 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 
 ```text
 💬 Programming Languages: 
-CSS                      30 mins             ████████████░░░░░░░░░░░░░   48.68 % 
-TypeScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              42 mins             █████████████████░░░░░░░░   68.37 % 
-VS Code                  19 mins             ████████░░░░░░░░░░░░░░░░░   31.63 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-icegotcha-dot-me         45 mins             ██████████████████░░░░░░░   73.11 % 
-icegotcha-2              6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-knowlats-dev             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-icegotcha                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +107,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2026 18:57:57 UTC
+ Last Updated on 14/06/2026 18:57:54 UTC
 <!--END_SECTION:waka-->
 
 
