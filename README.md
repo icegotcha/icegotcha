@@ -70,10 +70,10 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                257 commits         █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-🌆 Daytime                229 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-🌃 Evening                467 commits         █████████░░░░░░░░░░░░░░░░   36.83 % 
-🌙 Night                  315 commits         ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+🌞 Morning                257 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+🌆 Daytime                229 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+🌃 Evening                467 commits         █████████░░░░░░░░░░░░░░░░   36.80 % 
+🌙 Night                  316 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
 ```
 
 
@@ -93,11 +93,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Astro                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               12 repos            ████████████░░░░░░░░░░░░░   48.00 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Astro                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
@@ -107,7 +107,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2026 18:59:51 UTC
+ Last Updated on 21/06/2026 19:04:19 UTC
 <!--END_SECTION:waka-->
 
 
