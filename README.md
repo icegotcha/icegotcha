@@ -81,13 +81,18 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Astro                    35 mins             ██████████████████░░░░░░░   71.35 % 
+JavaScript               12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+digital-garden           39 mins             ████████████████████░░░░░   78.50 % 
+personal                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -107,7 +112,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2026 19:04:19 UTC
+ Last Updated on 22/06/2026 19:45:03 UTC
 <!--END_SECTION:waka-->
 
 
