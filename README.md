@@ -81,18 +81,22 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 
 ```text
 💬 Programming Languages: 
-Astro                    35 mins             ██████████████████░░░░░░░   71.35 % 
-JavaScript               12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Astro                    2 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.86 % 
+CSS                      1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+JavaScript               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+JSON                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Svelte                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 🔥 Editors: 
-Claude Code              50 mins             █████████████████████████   100.00 % 
+Claude Code              3 hrs 41 mins       █████████████░░░░░░░░░░░░   53.56 % 
+VS Code                  3 hrs 12 mins       ████████████░░░░░░░░░░░░░   46.44 % 
 
 🐱‍💻 Projects: 
-digital-garden           39 mins             ████████████████████░░░░░   78.50 % 
-personal                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+digital-garden           3 hrs 45 mins       ██████████████░░░░░░░░░░░   54.51 % 
+knowlats-dev             2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   35.08 % 
+personal                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+icegotcha                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+chatgpt-conversation-view3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -112,7 +116,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2026 19:45:03 UTC
+ Last Updated on 23/06/2026 19:16:59 UTC
 <!--END_SECTION:waka-->
 
 
