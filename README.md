@@ -57,11 +57,11 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/knowlats-dot-dev/website/pull/45) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
-2. 🎉 Merged PR [#44](https://github.com/knowlats-dot-dev/website/pull/44) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
-3. 🎉 Merged PR [#43](https://github.com/knowlats-dot-dev/website/pull/43) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
-4. 💪 Opened PR [#43](https://github.com/knowlats-dot-dev/website/pull/43) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
-5. 🎉 Merged PR [#42](https://github.com/knowlats-dot-dev/website/pull/42) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
+1. 🎉 Merged PR [#46](https://github.com/knowlats-dot-dev/website/pull/46) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
+2. 🎉 Merged PR [#45](https://github.com/knowlats-dot-dev/website/pull/45) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
+3. 🎉 Merged PR [#44](https://github.com/knowlats-dot-dev/website/pull/44) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
+4. 🎉 Merged PR [#43](https://github.com/knowlats-dot-dev/website/pull/43) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
+5. 💪 Opened PR [#43](https://github.com/knowlats-dot-dev/website/pull/43) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
 <!--END_SECTION:activity-->
 
 ---
