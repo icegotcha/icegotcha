@@ -70,10 +70,10 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                260 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-🌆 Daytime                234 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-🌃 Evening                472 commits         █████████░░░░░░░░░░░░░░░░   36.50 % 
-🌙 Night                  327 commits         ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+🌞 Morning                258 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+🌆 Daytime                230 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+🌃 Evening                478 commits         █████████░░░░░░░░░░░░░░░░   36.63 % 
+🌙 Night                  339 commits         ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
 ```
 
 
@@ -81,22 +81,22 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 
 ```text
 💬 Programming Languages: 
-Astro                    5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Svelte                   5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-TypeScript               3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-JavaScript               3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-CSS                      2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Astro                    5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Svelte                   5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+TypeScript               4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+CSS                      2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+JavaScript               2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 30 mins      █████████████░░░░░░░░░░░░   53.99 % 
-VS Code                  11 hrs 30 mins      ████████████░░░░░░░░░░░░░   46.01 % 
+VS Code                  12 hrs 55 mins      █████████████░░░░░░░░░░░░   50.42 % 
+Claude Code              12 hrs 42 mins      ████████████░░░░░░░░░░░░░   49.58 % 
 
 🐱‍💻 Projects: 
-knowlats-dev             14 hrs 48 mins      ███████████████░░░░░░░░░░   59.21 % 
-digital-garden           9 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   37.87 % 
-personal                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-icegotcha                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-chatgpt-conversation-view3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+knowlats-dev             14 hrs 48 mins      ██████████████░░░░░░░░░░░   57.78 % 
+digital-garden           10 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   40.01 % 
+personal                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+icegotcha                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+chatgpt-conversation-view3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,7 +116,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2026 18:55:33 UTC
+ Last Updated on 29/06/2026 19:15:44 UTC
 <!--END_SECTION:waka-->
 
 
