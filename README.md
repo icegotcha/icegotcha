@@ -57,11 +57,11 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#4](https://github.com/knowlats-dot-dev/digital-garden/pull/4) in [knowlats-dot-dev/digital-garden](https://github.com/knowlats-dot-dev/digital-garden)
-2. 💪 Opened PR [#4](https://github.com/knowlats-dot-dev/digital-garden/pull/4) in [knowlats-dot-dev/digital-garden](https://github.com/knowlats-dot-dev/digital-garden)
-3. 🎉 Merged PR [#2](https://github.com/knowlats-dot-dev/digital-garden/pull/2) in [knowlats-dot-dev/digital-garden](https://github.com/knowlats-dot-dev/digital-garden)
-4. 🎉 Merged PR [#3](https://github.com/knowlats-dot-dev/digital-garden/pull/3) in [knowlats-dot-dev/digital-garden](https://github.com/knowlats-dot-dev/digital-garden)
-5. 💪 Opened PR [#3](https://github.com/knowlats-dot-dev/digital-garden/pull/3) in [knowlats-dot-dev/digital-garden](https://github.com/knowlats-dot-dev/digital-garden)
+1. 💪 Opened PR [#6](https://github.com/knowlats-dot-dev/digital-garden/pull/6) in [knowlats-dot-dev/digital-garden](https://github.com/knowlats-dot-dev/digital-garden)
+2. 💪 Opened PR [#5](https://github.com/knowlats-dot-dev/digital-garden/pull/5) in [knowlats-dot-dev/digital-garden](https://github.com/knowlats-dot-dev/digital-garden)
+3. 🎉 Merged PR [#4](https://github.com/knowlats-dot-dev/digital-garden/pull/4) in [knowlats-dot-dev/digital-garden](https://github.com/knowlats-dot-dev/digital-garden)
+4. ℹ️ Assigned PR [#4](https://github.com/knowlats-dot-dev/digital-garden/pull/4) in [knowlats-dot-dev/digital-garden](https://github.com/knowlats-dot-dev/digital-garden)
+5. 💪 Opened PR [#4](https://github.com/knowlats-dot-dev/digital-garden/pull/4) in [knowlats-dot-dev/digital-garden](https://github.com/knowlats-dot-dev/digital-garden)
 <!--END_SECTION:activity-->
 
 ---
