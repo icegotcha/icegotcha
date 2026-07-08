@@ -70,10 +70,10 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                258 commits         ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-🌆 Daytime                213 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-🌃 Evening                336 commits         ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-🌙 Night                  317 commits         ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+🌞 Morning                254 commits         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+🌆 Daytime                213 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+🌃 Evening                336 commits         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+🌙 Night                  320 commits         ███████░░░░░░░░░░░░░░░░░░   28.50 % 
 ```
 
 
@@ -81,20 +81,20 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 
 ```text
 💬 Programming Languages: 
-Astro                    1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   34.56 % 
-TypeScript               1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-YAML                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Svelte                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+JSON                     1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   30.65 % 
+Svelte                   1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+Astro                    1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+YAML                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+TypeScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-digital-garden           3 hrs 48 mins       █████████████████░░░░░░░░   66.63 % 
-icegotcha-digital-garden 1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-digital-resume           45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-digital-garden-content   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+digital-resume           3 hrs 19 mins       ███████████████░░░░░░░░░░   58.97 % 
+digital-garden           1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   32.68 % 
+icegotcha-digital-garden 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+digital-garden-content   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 my-project               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
@@ -115,7 +115,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 19:14:51 UTC
+ Last Updated on 08/07/2026 18:58:59 UTC
 <!--END_SECTION:waka-->
 
 
