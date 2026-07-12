@@ -70,10 +70,10 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                255 commits         ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-🌆 Daytime                213 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-🌃 Evening                336 commits         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-🌙 Night                  319 commits         ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+🌞 Morning                255 commits         ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+🌆 Daytime                213 commits         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+🌃 Evening                339 commits         ████████░░░░░░░░░░░░░░░░░   30.11 % 
+🌙 Night                  319 commits         ███████░░░░░░░░░░░░░░░░░░   28.33 % 
 ```
 
 
@@ -100,11 +100,11 @@ System Design            0 secs              ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               14 repos            █████████████░░░░░░░░░░░░   53.85 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Astro                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TypeScript               14 repos            █████████████░░░░░░░░░░░░   51.85 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Astro                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
@@ -114,7 +114,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2026 18:51:10 UTC
+ Last Updated on 12/07/2026 18:51:37 UTC
 <!--END_SECTION:waka-->
 
 
