@@ -81,30 +81,29 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 
 ```text
 💬 Programming Languages: 
-JSON                     7 hrs 48 mins       ███████████████░░░░░░░░░░   61.17 % 
-Svelte                   2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-TypeScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+JSON                     7 hrs 34 mins       ████████████████░░░░░░░░░   64.60 % 
+Svelte                   1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+TypeScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-digital-resume           11 hrs 38 mins      ███████████████████████░░   91.25 % 
-icegotcha-digital-garden 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-digital-garden           17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+digital-resume           10 hrs 53 mins      ███████████████████████░░   92.92 % 
+icegotcha-digital-garden 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 System Design            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               14 repos            █████████████░░░░░░░░░░░░   51.85 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Astro                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               15 repos            █████████████░░░░░░░░░░░░   53.57 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Astro                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -114,7 +113,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 19:01:57 UTC
+ Last Updated on 14/07/2026 18:54:26 UTC
 <!--END_SECTION:waka-->
 
 
