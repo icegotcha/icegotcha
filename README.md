@@ -81,19 +81,17 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 
 ```text
 💬 Programming Languages: 
-Markdown                 48 mins             ████████████░░░░░░░░░░░░░   47.93 % 
-Svelte                   32 mins             ████████░░░░░░░░░░░░░░░░░   31.96 % 
-JSON                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Markdown                 48 mins             ████████████████████░░░░░   81.83 % 
+TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
+VS Code                  59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-digital-resume           52 mins             █████████████░░░░░░░░░░░░   51.32 % 
-icegotcha-digital-garden 49 mins             ████████████░░░░░░░░░░░░░   48.11 % 
-System Design            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+icegotcha-digital-garden 49 mins             █████████████████████░░░░   82.13 % 
+icegotcha-dot-me         10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+System Design            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,7 +111,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2026 18:52:38 UTC
+ Last Updated on 17/07/2026 18:52:38 UTC
 <!--END_SECTION:waka-->
 
 
