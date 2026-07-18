@@ -81,17 +81,13 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 
 ```text
 💬 Programming Languages: 
-Markdown                 48 mins             ████████████████████░░░░░   81.83 % 
-TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+TypeScript               10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-icegotcha-digital-garden 49 mins             █████████████████████░░░░   82.13 % 
-icegotcha-dot-me         10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-System Design            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+icegotcha-dot-me         10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +107,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 18:52:38 UTC
+ Last Updated on 18/07/2026 18:51:40 UTC
 <!--END_SECTION:waka-->
 
 
