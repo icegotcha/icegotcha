@@ -67,6 +67,8 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 ---
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2044%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -90,6 +92,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -107,7 +115,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 18:52:23 UTC
+ Last Updated on 27/07/2026 19:01:07 UTC
 <!--END_SECTION:waka-->
 
 
