@@ -101,11 +101,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               15 repos            █████████████░░░░░░░░░░░░   53.57 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Astro                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               16 repos            ██████████████░░░░░░░░░░░   55.17 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Astro                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -115,7 +115,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 22:31:41 UTC
+ Last Updated on 01/10/2026 22:52:16 UTC
 <!--END_SECTION:waka-->
 
 
