@@ -57,11 +57,11 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/icegotcha/cinema-ticket-booking-system/pull/5#issuecomment-6784133735) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
-2. 🎉 Merged PR [#10](https://github.com/icegotcha/cinema-ticket-booking-system/pull/10) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
-3. 💪 Opened PR [#10](https://github.com/icegotcha/cinema-ticket-booking-system/pull/10) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
-4. 🎉 Merged PR [#8](https://github.com/icegotcha/cinema-ticket-booking-system/pull/8) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
-5. 🎉 Merged PR [#9](https://github.com/icegotcha/cinema-ticket-booking-system/pull/9) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
+1. 🎉 Merged PR [#13](https://github.com/icegotcha/cinema-ticket-booking-system/pull/13) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
+2. 💪 Opened PR [#13](https://github.com/icegotcha/cinema-ticket-booking-system/pull/13) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
+3. 🎉 Merged PR [#12](https://github.com/icegotcha/cinema-ticket-booking-system/pull/12) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
+4. 💪 Opened PR [#12](https://github.com/icegotcha/cinema-ticket-booking-system/pull/12) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
+5. 🎉 Merged PR [#11](https://github.com/icegotcha/cinema-ticket-booking-system/pull/11) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
 <!--END_SECTION:activity-->
 
 ---
