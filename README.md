@@ -57,11 +57,11 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/icegotcha/cinema-ticket-booking-system/pull/13) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
-2. 💪 Opened PR [#13](https://github.com/icegotcha/cinema-ticket-booking-system/pull/13) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
-3. 🎉 Merged PR [#12](https://github.com/icegotcha/cinema-ticket-booking-system/pull/12) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
-4. 💪 Opened PR [#12](https://github.com/icegotcha/cinema-ticket-booking-system/pull/12) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
-5. 🎉 Merged PR [#11](https://github.com/icegotcha/cinema-ticket-booking-system/pull/11) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
+1. 🎉 Merged PR [#52](https://github.com/knowlats-dot-dev/website/pull/52) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
+2. 💪 Opened PR [#52](https://github.com/knowlats-dot-dev/website/pull/52) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
+3. 🎉 Merged PR [#51](https://github.com/knowlats-dot-dev/website/pull/51) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
+4. 💪 Opened PR [#51](https://github.com/knowlats-dot-dev/website/pull/51) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
+5. 🎉 Merged PR [#13](https://github.com/icegotcha/cinema-ticket-booking-system/pull/13) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
 <!--END_SECTION:activity-->
 
 ---
