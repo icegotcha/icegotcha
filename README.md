@@ -57,11 +57,11 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/knowlats-dot-dev/website/pull/52) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
-2. 💪 Opened PR [#52](https://github.com/knowlats-dot-dev/website/pull/52) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
-3. 🎉 Merged PR [#51](https://github.com/knowlats-dot-dev/website/pull/51) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
-4. 💪 Opened PR [#51](https://github.com/knowlats-dot-dev/website/pull/51) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
-5. 🎉 Merged PR [#13](https://github.com/icegotcha/cinema-ticket-booking-system/pull/13) in [icegotcha/cinema-ticket-booking-system](https://github.com/icegotcha/cinema-ticket-booking-system)
+1. 💪 Opened PR [#1](https://github.com/icegotcha/code-server-railway-template/pull/1) in [icegotcha/code-server-railway-template](https://github.com/icegotcha/code-server-railway-template)
+2. 🎉 Merged PR [#52](https://github.com/knowlats-dot-dev/website/pull/52) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
+3. 💪 Opened PR [#52](https://github.com/knowlats-dot-dev/website/pull/52) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
+4. 🎉 Merged PR [#51](https://github.com/knowlats-dot-dev/website/pull/51) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
+5. 💪 Opened PR [#51](https://github.com/knowlats-dot-dev/website/pull/51) in [knowlats-dot-dev/website](https://github.com/knowlats-dot-dev/website)
 <!--END_SECTION:activity-->
 
 ---
