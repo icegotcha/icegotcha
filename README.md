@@ -57,11 +57,11 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/icegotcha/icegotcha-dot-me/pull/7) in [icegotcha/icegotcha-dot-me](https://github.com/icegotcha/icegotcha-dot-me)
-2. 💪 Opened PR [#7](https://github.com/icegotcha/icegotcha-dot-me/pull/7) in [icegotcha/icegotcha-dot-me](https://github.com/icegotcha/icegotcha-dot-me)
-3. 🎉 Merged PR [#6](https://github.com/icegotcha/icegotcha-dot-me/pull/6) in [icegotcha/icegotcha-dot-me](https://github.com/icegotcha/icegotcha-dot-me)
-4. 💪 Opened PR [#6](https://github.com/icegotcha/icegotcha-dot-me/pull/6) in [icegotcha/icegotcha-dot-me](https://github.com/icegotcha/icegotcha-dot-me)
-5. 💪 Opened PR [#1](https://github.com/icegotcha/code-server-railway-template/pull/1) in [icegotcha/code-server-railway-template](https://github.com/icegotcha/code-server-railway-template)
+1. 🎉 Merged PR [#8](https://github.com/icegotcha/icegotcha-dot-me/pull/8) in [icegotcha/icegotcha-dot-me](https://github.com/icegotcha/icegotcha-dot-me)
+2. 💪 Opened PR [#8](https://github.com/icegotcha/icegotcha-dot-me/pull/8) in [icegotcha/icegotcha-dot-me](https://github.com/icegotcha/icegotcha-dot-me)
+3. 🎉 Merged PR [#7](https://github.com/icegotcha/icegotcha-dot-me/pull/7) in [icegotcha/icegotcha-dot-me](https://github.com/icegotcha/icegotcha-dot-me)
+4. 💪 Opened PR [#7](https://github.com/icegotcha/icegotcha-dot-me/pull/7) in [icegotcha/icegotcha-dot-me](https://github.com/icegotcha/icegotcha-dot-me)
+5. 🎉 Merged PR [#6](https://github.com/icegotcha/icegotcha-dot-me/pull/6) in [icegotcha/icegotcha-dot-me](https://github.com/icegotcha/icegotcha-dot-me)
 <!--END_SECTION:activity-->
 
 ---
