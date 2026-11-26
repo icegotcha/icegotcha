@@ -67,15 +67,13 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2044%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                262 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-🌆 Daytime                235 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-🌃 Evening                374 commits         ████████░░░░░░░░░░░░░░░░░   31.11 % 
-🌙 Night                  331 commits         ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+🌞 Morning                291 commits         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+🌆 Daytime                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+🌃 Evening                367 commits         ████████░░░░░░░░░░░░░░░░░   30.06 % 
+🌙 Night                  344 commits         ███████░░░░░░░░░░░░░░░░░░   28.17 % 
 ```
 
 
@@ -101,11 +99,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ██████████████░░░░░░░░░░░   55.17 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Astro                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+TypeScript               16 repos            █████████████░░░░░░░░░░░░   53.33 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Astro                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
@@ -115,7 +113,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 21:49:51 UTC
+ Last Updated on 26/11/2026 09:30:01 UTC
 <!--END_SECTION:waka-->
 
 
