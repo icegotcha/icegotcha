@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://icegotcha.me/images/owner.jpg" width="200" height="250" />
+  <img src="https://raw.githubusercontent.com/icegotcha/icegotcha/refs/heads/main/assets/owner.jpg" width="200" height="250" />
 </p>
 
 <h3 align="center">Kotchakorn Wongwisutigul (Ice)</h3>
