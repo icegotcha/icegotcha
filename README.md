@@ -72,10 +72,10 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                291 commits         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-🌆 Daytime                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-🌃 Evening                367 commits         ████████░░░░░░░░░░░░░░░░░   30.06 % 
-🌙 Night                  344 commits         ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+🌞 Morning                291 commits         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+🌆 Daytime                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+🌃 Evening                369 commits         ████████░░░░░░░░░░░░░░░░░   30.17 % 
+🌙 Night                  344 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
 ```
 
 
@@ -83,19 +83,37 @@ Feel free to checkout my personal website → [icegotcha.me](https://icegotcha.m
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 47 mins        ███████████████████████░░   93.65 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             1 hr 50 mins        ████████████████████████░   96.54 % 
+VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+icegotcha-dot-me         1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 54 mins (100.0%)
+
+✍️ 466 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 146,780 Input Tokens, 41,150 Output Tokens
+
+💵 $2.09 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 15 AI Prompts
+
+GPT                      480 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,139 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +133,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icegotcha/icegotcha/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2026 01:54:20 UTC
+ Last Updated on 28/11/2026 01:36:40 UTC
 <!--END_SECTION:waka-->
 
 
